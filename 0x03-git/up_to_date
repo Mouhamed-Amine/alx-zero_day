@@ -1,2 +1,6 @@
 "Command used"
+git fetch
+git merge
+git pull
+
 touch up_to_date
